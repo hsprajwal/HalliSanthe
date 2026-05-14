@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1083270795649",
+    "project_id": "hallisanthe-ea309",
+    "storage_bucket": "hallisanthe-ea309.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083270795649:android:f4ed3c2e17057439a1d880",
+        "android_client_info": {
+          "package_name": "com.example.hallisanthe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxwUVJ8uzN2DJqL5U6TGL2f_BHOxg0Kp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
