@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "1083270795649",
-    "project_id": "hallisanthe-ea309",
-    "storage_bucket": "hallisanthe-ea309.firebasestorage.app"
+    "project_number": "",
+    "project_id": "",
+    "storage_bucket": ""
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1083270795649:android:f4ed3c2e17057439a1d880",
+        "mobilesdk_app_id": "",
         "android_client_info": {
           "package_name": "com.example.hallisanthe"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDxwUVJ8uzN2DJqL5U6TGL2f_BHOxg0Kp8"
+          "current_key": ""
         }
       ],
       "services": {
@@ -27,3 +27,5 @@
   ],
   "configuration_version": "1"
 }
+
+//go to the firebase-> create the project-> select an android app-> give the packagae name as ""com.example.hallisanthe""  -> next-> next-> download the json. and paste the code here
